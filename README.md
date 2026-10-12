@@ -4,6 +4,8 @@ Welcome to my portfolio! I am an entry level going into IT and cybersecurity. Al
 # Certifications
 CompTIA Security+
 
+# Skills
+
 # Contact
 Email: kittyarcade75@gmail.com
 
