@@ -6,5 +6,7 @@ CompTIA Security+
 
 # Contact
 Email: kittyarcade75@gmail.com
+
 Indeed: 
+
 Linkedin: 
