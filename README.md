@@ -11,4 +11,4 @@ Email: kittyarcade75@gmail.com
 
 Indeed: 
 
-Linkedin: 
+Linkedin: www.linkedin.com/in/rebecca-baird-a69132285
