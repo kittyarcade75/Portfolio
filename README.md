@@ -5,6 +5,11 @@ Welcome to my portfolio! I am an entry level going into IT and cybersecurity. Al
 CompTIA Security+
 
 # Skills
+Windows/Mac/Linux usage
+General troubleshooting 
+Powershell fundamentals 
+Windows security log analysis 
+technical documentation
 
 # Contact
 Email: kittyarcade75@gmail.com
