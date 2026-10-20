@@ -6,9 +6,13 @@ CompTIA Security+
 
 # Skills
 Windows/Mac/Linux usage
+
 General troubleshooting 
+
 Powershell fundamentals 
+
 Windows security log analysis 
+
 technical documentation
 
 # Contact
